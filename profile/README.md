@@ -5,7 +5,7 @@ The data, analysis, and visualization (DAV) software development kit (SDK), or D
 
 ## Dependency table
 
-M -> Mandatory
+M -> Mandatory  
 O -> Optional
 
 
